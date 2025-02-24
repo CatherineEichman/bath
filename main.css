@@ -1,0 +1,27 @@
+@charset "UTF-8";
+/* CSS Document */
+*{
+    box-sizing: border-box ;
+}
+body{
+    background: url("bubbles.png") no-repeat fixed top right
+}
+#container{
+    width: 1000px;
+    margin: 0 auto;
+}
+.left{
+    width: 380px;
+    height: 200px;
+    background-color: azure;
+    border-radius: 25px;
+    float: left;
+    margin: 0px 10px 0px 10px;
+}
+.right{
+    width:380px;
+    height: 200px;
+    background-color: azure;
+    border-radius: 25px;
+    float: left;
+}
