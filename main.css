@@ -6,24 +6,27 @@
 body{
     background: url("bub.jpg") no-repeat fixed top center
 }
+
 #container{
-    width: 600px;
+    width: 400px;
+    
     margin: 0 auto;
 }
 .left{
-    width: 380px;
-    height: 200px;
+    width: 190px;
+    height: 120px;
     background-color: mediumturquoise;
     border-radius: 25px;
     float: left;
-    margin: 0px 15px 0px 10x;
+    margin: 0px 10px 10px 0px;
 }
 .right{
-    width:380px;
-    height: 200px;
+    width:190px;
+    height: 120px;
     background-color: mediumturquoise;
     border-radius: 25px;
     float: left;
+    margin: 0px 10px 10px 0px;
 }
 footer{
     background-color: rgb(209, 135, 108);}
